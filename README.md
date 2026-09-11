@@ -28,7 +28,7 @@
 
 <!-- ══════════════ TYPING SVG ══════════════ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Himashree;React+%E2%9A%9B%EF%B8%8F+enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+caffeine+into+components+%E2%98%95;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Himashree;React+%E2%9A%9B%EF%B8%8F+enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+caffeine+into+components+%E2%98%95;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -44,6 +44,7 @@
 ---
 
 <!-- ══════════════ ABOUT ME ══════════════ -->
+
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
 
 ```javascript
@@ -63,17 +64,21 @@ const himashree = {
 <br/>
 
 <!-- ══════════════ TECH STACK ══════════════ -->
+
 ## 🛠️ &nbsp;Tech Stack & Tools
 
 <div align="center">
 
 ### 🎨 Frontend Magic
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap&theme=dark)](https://skillicons.dev)
 
 ### ⚙️ Tools & Workflow
+
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark)](https://skillicons.dev)
 
 ### 🌱 Currently Exploring
+
 [![My Skills](https://skillicons.dev/icons?i=react,tailwind,ts&theme=dark)](https://skillicons.dev)
 
 </div>
@@ -81,16 +86,18 @@ const himashree = {
 <br/>
 
 <!-- ══════════════ STATS ══════════════ -->
+
 ## 📊 &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashree-nandi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&icon_color=4adede&text_color=c9d1d9&ring_color=7873f5" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashree-nandi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&text_color=c9d1d9" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashree-nandi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&icon_color=4adede&text_color=c9d1d9&ring_color=7873f5&cache_seconds=86400" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashree-nandi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&text_color=c9d1d9&cache_seconds=86400" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himashree-nandi&theme=radical&hide_border=true&background=0d1117&ring=ff6ec4&fire=4adede&currStreakLabel=7873f5&sideLabels=c9d1d9" />
+<!-- ✅ FIXED: streak stats now uses the new official domain -->
+<img src="https://streak-stats.demolab.com/?user=himashree-nandi&theme=radical&hide_border=true&background=0d1117&ring=ff6ec4&fire=4adede&currStreakLabel=7873f5&sideLabels=c9d1d9&cache_seconds=86400" />
 
 <br/><br/>
 
@@ -101,19 +108,21 @@ const himashree = {
 <br/>
 
 <!-- ══════════════ SNAKE ══════════════ -->
+
 ## 🐍 &nbsp;Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake.svg" />
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake.svg" />
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake.svg" />
+</picture>
 </div>
 
 <br/>
 
 <!-- ══════════════ CONNECT ══════════════ -->
+
 ## 🤝 &nbsp;Let's Connect!
 
 <div align="center">
@@ -128,17 +137,20 @@ const himashree = {
 
 <br/>
 
-<!-- ══════════════ QUOTE ══════════════ -->
+<!-- ══════════════ RANDOM QUOTE (new quote on EVERY load) ══════════════ -->
+
+## 💭 &nbsp;Random Dev Quote
+
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quoteCategory=programming" />
 
 <br/><br/>
 
-**✨ "First, solve the problem. Then, write the code." ✨**
+<!-- Bonus: a random dev joke on every load too -->
+<img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Jokes Card" />
 
 </div>
 
 <!-- ══════════════ FOOTER WAVE ══════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4adede,50:7873f5,100:ff6ec4&height=120&section=footer" width="100%" />
-
