@@ -91,17 +91,15 @@ const himashree = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashree-nandi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&icon_color=4adede&text_color=c9d1d9&ring_color=7873f5&cache_seconds=86400" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashree-nandi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&text_color=c9d1d9&cache_seconds=86400" />
+![Total Stars](https://img.shields.io/github/stars/himashree-nandi?style=for-the-badge&color=ff6ec4&labelColor=1a1b27)
+![Total Commits](https://img.shields.io/badge/Commits-82-7873f5?style=for-the-badge&labelColor=1a1b27)
+![Account Age](https://img.shields.io/badge/Since-2022-ff6ec4?style=for-the-badge&labelColor=1a1b27)
 
 <br/><br/>
 
 <!-- ✅ FIXED: streak stats now uses the new official domain -->
 <img src="https://streak-stats.demolab.com/?user=himashree-nandi&theme=radical&hide_border=true&background=0d1117&ring=ff6ec4&fire=4adede&currStreakLabel=7873f5&sideLabels=c9d1d9&cache_seconds=86400" />
 
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=himashree-nandi&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
