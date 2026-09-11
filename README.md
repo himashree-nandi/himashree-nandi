@@ -1,4 +1,4 @@
-<h1 align="center">Hi there I'm Himashree Nandi</h1>
+<!-- <h1 align="center">Hi there I'm Himashree Nandi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=himashree-nandi&label=Profile%20views&color=0e75b6&style=flat" alt="himashree-nandi" /> </p>
@@ -19,4 +19,126 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=himashree-nandi&show_icons=true&locale=en" alt="himashree-nandi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashree-nandi&" alt="himashree-nandi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=himashree-nandi&" alt="himashree-nandi" /></p> -->
+
+<div align="center">
+
+<!-- ══════════════ WAVE BANNER ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6ec4,50:7873f5,100:4adede&height=220&section=header&text=Himashree%20Nandi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%E2%9C%A6%20Crafting%20Pixels%20into%20Experiences&descAlignY=58&descSize=18&animation=fadeIn" width="100%" />
+
+<!-- ══════════════ TYPING SVG ══════════════ -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6EC4&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Himashree;React+%E2%9A%9B%EF%B8%8F+enthusiast+from+India+%F0%9F%87%AE%F0%9F%87%B3;Turning+caffeine+into+components+%E2%98%95;Learning+something+new+every+day+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- ══════════════ BADGES ══════════════ -->
+![Profile Views](https://komarev.com/ghpvc/?username=himashree-nandi&label=Profile%20Views&color=ff6ec4&style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himashree-nandi)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandihimashree@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/himashree-nandi?label=Followers&style=for-the-badge&color=7873f5&labelColor=1a1b27)](https://github.com/himashree-nandi)
+
+</div>
+
+---
+
+<!-- ══════════════ ABOUT ME ══════════════ -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> &nbsp;About Me
+
+```javascript
+const himashree = {
+    pronouns: "She/Her",
+    location: "India 🇮🇳",
+    role: "Frontend Developer",
+    currentlyLearning: "ReactJS ⚛️",
+    code: ["HTML", "CSS", "JavaScript"],
+    design: ["Bootstrap", "Responsive UI", "Pixel-perfect layouts"],
+    passion: "Building interfaces that make people say 'wow' ✨",
+    funFact: "I debug with console.log and I'm not ashamed 😄",
+    email: "nandihimashree@gmail.com"
+};
+```
+
+<br/>
+
+<!-- ══════════════ TECH STACK ══════════════ -->
+## 🛠️ &nbsp;Tech Stack & Tools
+
+<div align="center">
+
+### 🎨 Frontend Magic
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Tools & Workflow
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,npm&theme=dark)](https://skillicons.dev)
+
+### 🌱 Currently Exploring
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind,ts&theme=dark)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+<!-- ══════════════ STATS ══════════════ -->
+## 📊 &nbsp;GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=himashree-nandi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&icon_color=4adede&text_color=c9d1d9&ring_color=7873f5" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himashree-nandi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6ec4&text_color=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himashree-nandi&theme=radical&hide_border=true&background=0d1117&ring=ff6ec4&fire=4adede&currStreakLabel=7873f5&sideLabels=c9d1d9" />
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=himashree-nandi&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" />
+
+</div>
+
+<br/>
+
+<!-- ══════════════ SNAKE ══════════════ -->
+## 🐍 &nbsp;Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/himashree-nandi/himashree-nandi/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- ══════════════ CONNECT ══════════════ -->
+## 🤝 &nbsp;Let's Connect!
+
+<div align="center">
+
+*Have a project idea, want to collaborate, or just say hi? My inbox is always open!* 💌
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/himashree-nandi)
+[![Gmail](https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandihimashree@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himashree-nandi)
+
+</div>
+
+<br/>
+
+<!-- ══════════════ QUOTE ══════════════ -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+<br/><br/>
+
+**✨ "First, solve the problem. Then, write the code." ✨**
+
+</div>
+
+<!-- ══════════════ FOOTER WAVE ══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4adede,50:7873f5,100:ff6ec4&height=120&section=footer" width="100%" />
+
